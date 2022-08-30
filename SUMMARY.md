@@ -4,7 +4,8 @@
 * [🧠 Installation](installation.md)
 * [⌨ Keyboard Shortcuts](keyboard-shortcuts.md)
 * [🚦 Terminal](terminal.md)
-* [🪅 Data Exploration / Results](data-exploration-results.md)
+* [🪅 Data Exploration / Results](data-exploration-results/README.md)
+  * [Data Profiling](data-exploration-results/data-profiling.md)
 * [🔬 Experiment Management](experiment-management.md)
 * [📈 Model Visualization](model-visualization.md)
 
