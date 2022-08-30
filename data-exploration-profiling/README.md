@@ -1,4 +1,4 @@
-# 🪅 Data Exploration / Results
+# 🪅 Data Exploration / Profiling
 
 In this page we'll run you through a simple data exploration exercise
 
