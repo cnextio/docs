@@ -6,17 +6,15 @@ description: The CNext shortcut keys
 
 This page will provide a quick overview of the commands available within CNext.&#x20;
 
-CNext provides users with the ability to group a set of lines in to a cell. Cells can then be run individually or sequentially.&#x20;
+CNext provides users with the ability to group a set of lines in to a cell. Cells can then be run individually or sequentially. The UI also allows users to run individual cells as well.&#x20;
 
 All shortcut keys are defined in file **`./config.json`**.&#x20;
 
+**Windows machines - Ctrl**
 
+**Mac machines - Cmd**
 
-Windows machines - Ctrl
-
-Mac machines - Cmd
-
-### Group Related Commands
+### Group Commands
 
 * Ctrl | Cmd + G - create  a new group on selected lines or the line where the cursor is
 * Ctrl | Cmd + U - ungroup a grouped line
