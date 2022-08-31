@@ -23,6 +23,13 @@ Mac machines - Cmd
 * Ctrl | Cmd + Shift + G - insert a blank group below
 * Ctrl | Cmd + Shift + L - insert a blank line below
 
+### Executing Commands
+
+* Ctrl | Cmd + Enter - execute the group or line where the cursor is
+* Ctrl | Cmd + Shift + Enter - execute the group then move the cursor to the next group
+* \*Shift + A - turn on/off code auto-completion
+* \*Shift + L - turn on/off code analysis
+
 ### Code Folding
 
 * Ctrl | Cmd + Shift + F - fold all code including grouped code
@@ -30,12 +37,7 @@ Mac machines - Cmd
 * Ctrl | Cmd + Shift + C - fold a code section
 * Ctrl | Cmd + Shift + V - unfold a code section
 
-### Executing Commands
-
-* Ctrl | Cmd + Enter - execute the group or line where the cursor is
-* Ctrl | Cmd + Shift + Enter - execute the group then move the cursor to the next group
-* \*Shift + A - turn on/off code auto-completion
-* \*Shift + L - turn on/off code analysis
+###
 
 Items with an (\*) are still in development on our side
 
