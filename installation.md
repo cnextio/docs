@@ -71,7 +71,7 @@ If everything completed without any errors open your browser and navigate to:
 http://localhost:4000
 ```
 
-Note: to add a local directory to the docker instance map the local drive to the home folder. Example below:
+Note: to add a local directory to the docker instance map the local drive to the home folder when provisioning the instance. Example below:
 
 ```
 -v $(pwd)/Skywalker2:/home/cnext/Skywalker2
