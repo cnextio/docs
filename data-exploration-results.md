@@ -15,15 +15,13 @@ df = cd.DataFrame('data/housing_data/data.csv')
 
 cnextlib is our proprietary wrapper around PANDAS that allows us to do change tracking at the dataframe level. We currently support PANDAS.&#x20;
 
-
-
-![Data import](.gitbook/assets/Untitled.png)
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Step 2: Data Exploration
 
 Once this cell is run you should see a table updated on the right hand side of the portal with automatic column names.
 
-![Table loaded](<.gitbook/assets/Untitled (1).png>)
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>Dataframe loaded</p></figcaption></figure>
 
 Selecting AutoStats will select the histogram and quantile selections providing a quick graphical overview of each columns’ data.
 
@@ -67,4 +65,4 @@ We support compound conditions for data exploration. Try the following code snip
 [('Alley' isna)&('LotArea'>8000), ["Alley", 'BldgType', 'HouseStyle', 'LotArea']]
 ```
 
-![](<.gitbook/assets/Untitled (8).png>)
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
