@@ -22,7 +22,7 @@ _PLEASE NOTE: CNext requires **npm >= 18.4** and **Python >= 3.9.7**_ . _Please 
 Run command:
 
 ```python
-pip install cnext
+pip install -U cnext
 ```
 
 #### Step 2: CNext Initialization
