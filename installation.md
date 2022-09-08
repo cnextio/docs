@@ -30,22 +30,16 @@ pip install -U cnext
 Run command:
 
 ```
-cnext-init
+cnext
 ```
 
 You'll be prompted to download our sample project (this project has sample code, datasets and some basic tutorials you can play around with to familiarize yourself with the system) - I'd recommend selecting 'Y'
 
-Save the sample project to your desired location (please use an absolute path) - e.g. _/Users/luke/Downloads/cnext/Skywalker_
+Save the sample project to your desired location (please use an absolute path) - e.g. _/Users/luke/Downloads/cnext/Skywalker._&#x20;
 
-#### Step 3: CNext Run
+On subsequent runs you can skip the sample project download.
 
-Run command:
-
-```
-cnext-run
-```
-
-#### Step 4: bring up the system in your browser
+#### Step 3: bring up the system in your browser
 
 If everything completed without any errors open your browser and navigate to:
 
