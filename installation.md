@@ -14,7 +14,7 @@ Two installation options are available to users:
 ## PIP Installation
 
 {% hint style="danger" %}
-_PLEASE NOTE: CNext requires **npm >= 18.4** and **Python >= 3.9.7**_ . _Please ensure your environment meets the minimum requirements before beginning the installation._&#x20;
+_PLEASE NOTE: CNext requires **npm >= 8.4** and **Python >= 3.9.7**_ . _Please ensure your environment meets the minimum requirements before beginning the installation._&#x20;
 {% endhint %}
 
 #### **Step 1: Install**&#x20;
