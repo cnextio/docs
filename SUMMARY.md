@@ -13,4 +13,4 @@
 
 * [❓ FAQs](extras/faqs.md)
 * [🚄 Performance](extras/performance.md)
-* [ipython kernel](extras/ipython-kernel.md)
+* [🐍 IPython Kernel](extras/ipython-kernel.md)

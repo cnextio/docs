@@ -1,4 +1,4 @@
-# ipython kernel
+# 🐍 IPython Kernel
 
 By default CNext will run an ipython kernel corresponding to your current environment.
 
