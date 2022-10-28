@@ -34,7 +34,7 @@ Code Analysis will provide simple highlights of issues and helpful hints
 
 
 
-### Show Markdown
+### Show Markdown / Annotation
 
 Markdown allows users to create simple visual representations of commentary. This will be rendered in the Results tab to the right (example below).&#x20;
 
