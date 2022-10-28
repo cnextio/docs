@@ -5,7 +5,8 @@
 * [⌨ Keyboard Shortcuts](keyboard-shortcuts.md)
 * [🖥 UI Functions](ui-functions.md)
 * [🚦 Terminal](terminal.md)
-* [🪅 Data Exploration / Profiling](data-exploration-profiling.md)
+* [🪅 Data Exploration / Profiling](data-exploration-profiling/README.md)
+  * [🍧 User Defined Functions (UDF)](data-exploration-profiling/user-defined-functions-udf.md)
 * [🔬 Experiment Management](experiment-management.md)
 * [📈 Model Visualization](model-visualization.md)
 

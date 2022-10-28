@@ -30,7 +30,7 @@ Users can toggle the autocomplete functionality in the bottom left hand of the p
 
 Code Analysis will provide simple highlights of issues and helpful hints
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
